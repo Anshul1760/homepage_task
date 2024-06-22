@@ -1,0 +1,15 @@
+{
+    "Fashion": {
+      "Men": ["Ethnic Wear", "Casual Wear", "Formal Wear"],
+      "Women": ["Western Wear", "Ethnic Wear", "Casual Wear"]
+    },
+    "Electronics": {
+      "Mobiles": ["Android", "iPhone"],
+      "Laptops": ["Windows", "Macbook"]
+    },
+    "Home Appliances": {
+      "Kitchen": ["Microwave", "Refrigerator","Dishes"],
+      "Living Room": ["Television", "Air Conditioner","Blankets"]
+    }
+  }
+  
