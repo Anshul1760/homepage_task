@@ -45,7 +45,7 @@ const App = () => {
           <Typography variant="body2">
             &copy; 2024 shopping website by Anshul <br />
             <p>Email: anshulmanhas17@gmail.com</p>
-            <p>Phone: 9882924036</p>
+            
           </Typography>
         </Container>
       </footer>
